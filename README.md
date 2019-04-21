@@ -1,2 +1,2 @@
 # FrequencyBot
-Project for the SFUPF Discord bot
+Developing project for the SFUPF Discord bot
