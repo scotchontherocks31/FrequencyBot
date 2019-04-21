@@ -1,7 +1,7 @@
 # FrequencyBot
 Developing project for the SFUPF Discord bot
 
-Project details:
+Project timeline:
 
   Sunday April 21 2019: 
     Made repository
